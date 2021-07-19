@@ -1,8 +1,14 @@
 # mbedTLSTest
 
 ## プロジェクトファイル
-Segger Embeded Studioを用いて以下のファイルを開いてください。
+SEGGER Embedded Studioを用いて以下のファイルを開いてください。
 \mbedTLSTest\mbedTLSTest\ble_peripheral\project\pca10040\s132\sesmbedTLSTest_s132.emProject
+
+プロジェクトはnRF52832を対象にしていますが、他のnRF52シリーズを使用する場合は設定を変更ください。
+
+nRFマイコンの環境構築方法については、以下をご参照ください。
+
+[Nordic社製BLEの開発環境構築と動作確認](https://qiita.com/Kosuke_Matsui/items/5d61ce77e928b9f117cc)
 
 ## 追加ファイル
 Noridicの公式サイトからSDKやソフトデバイスをダウンロードしてください。
